@@ -1,0 +1,19 @@
+- Panzer Aces
+    - 70.323 USMC Tank Crew Highl
+    - 70.327 Italian Tank Crew
+- Model Color
+    - 70.820 Offwhite
+    - 70.857 Golden Olive
+    - 70.879 Green Brown
+    - 70.884 Stone Grey
+    - 70.885 Pastel Green
+    - 70.912 Tan Yellow
+    - 70.916 Sand Yellow
+    - 70.967 Olive Green
+    - 70.973 Light Sea Grey
+    - 70.976 Buff
+    - 70.983 Flat Earth
+- General colors to verify
+    - yellow
+    - browns
+    - ivory
